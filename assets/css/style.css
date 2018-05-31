@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+.navbar-custom {
+    background-color: teal;
+    
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.li {
+    color: white;
+    padding: 10px;
+
+    
+}
+
+p {
+    text-align: center;
+}
+
+body {
+    background-color: grey;
+}
+
+
+
+#main-container-contact {
+
+    background-color: white;
+    padding-bottom: 20px;
+
+}
+
+.fixed-bottom {
+    background-color: teal;
+}

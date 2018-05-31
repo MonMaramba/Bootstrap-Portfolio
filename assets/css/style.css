@@ -7,15 +7,24 @@
     
 }
 
+.navbar-default {
+    color: white;
+}
+
 .navbar-brand {
     color: white;
 }
 
-.li {
+.navbar-nav > li {
     color: white;
-    padding: 10px;
+    padding: 40px;
 
     
+}
+
+h1 {
+    color: teal;
+    padding: 10px;
 }
 
 p {
@@ -24,6 +33,12 @@ p {
 
 body {
     background-color: grey;
+}
+
+#index-container {
+    background-color: white;
+    width: 70%;
+    padding-bottom: 10px;
 }
 
 
@@ -35,6 +50,15 @@ body {
 
 }
 
-.fixed-bottom {
+.footer {
     background-color: teal;
 }
+
+/*portfolio css*/
+
+#portfolio-container {
+    width: 70%;
+    background-color: white;
+}
+
+
